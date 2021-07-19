@@ -6,3 +6,4 @@
 # Get Ready for Battle 💣 
 
  
+![](https://komarev.com/ghpvc/?username=kedi)
