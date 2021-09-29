@@ -1,7 +1,7 @@
 <!--<img align='left' src="https://github-readme-stats.vercel.app/api?username=ifelsee&show_icons=true">-->
 
 
-![giphy](https://media.giphy.com/media/3zyW4BAOm5hxyQDqJ7/giphy.gif)
+![giphy](https://giphy.com/embed/JppEpVfp6qKtFdALN5/video)
 
 # Get Ready for Battle 💣 
 
