@@ -1,10 +1,9 @@
 <!--<img align='left' src="https://github-readme-stats.vercel.app/api?username=ifelsee&show_icons=true">-->
 
-![giphy](https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=ecf05e4727lsikr02g2rr4wmc5c1jsod9rphzrrn8v4ort2q&rid=giphy.gif&ct=g)
+![dtaKeMw](https://user-images.githubusercontent.com/49848935/145769881-a2973c1c-b0da-4bd9-bacc-61d509589ebb.png)
 
 
-###Ney nerde ?
-#####https://gist.github.com/ifelsee
+https://gist.github.com/ifelsee
 
  
 ![](https://komarev.com/ghpvc/?username=ifelsee)
