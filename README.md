@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/49848935/146879282-d4741075-a77e-4e18-b42c-c036d76e98ab.png)
 
 
-https://gist.github.com/ifelsee
+- https://gist.github.com/ifelsee
+- https://www.codewars.com/users/ifelsee
 
- 
 ![](https://komarev.com/ghpvc/?username=ifelsee)
