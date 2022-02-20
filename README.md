@@ -6,5 +6,5 @@
 
 - https://gist.github.com/ifelsee
 - https://www.codewars.com/users/ifelsee
-
+-https://gist.github.com/ifelsee/d8df4432fc4764667d4a934ee86a56d9 (my algorithm examples)
 ![](https://komarev.com/ghpvc/?username=ifelsee)
